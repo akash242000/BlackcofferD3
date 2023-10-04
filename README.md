@@ -1,4 +1,4 @@
-![image](https://github.com/akash242000/BlackcofferD3/assets/55205231/f37024c7-80a4-4187-af3f-d0e20004e878)### Tech Stack Used in App:
+### Tech Stack Used in App:
 
 Frontend: ReactJS, Redux-Toolkit, ContextAPI
 
