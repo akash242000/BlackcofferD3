@@ -6,6 +6,25 @@ Backend: NodeJS, ExpressJS
 
 ### Screenshots:
 
-##To run this app locally:
+
+
+### To Run this app locally:
 
 First clone the repository, then install all the dependencies:
+
+```
+npm install
+cd API/npm install
+```
+
+Then Start the server:
+```
+node API/index.js
+```
+
+Then Start client:
+
+```
+npm start
+```
+Done!
