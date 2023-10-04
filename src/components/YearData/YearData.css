@@ -1,0 +1,20 @@
+
+
+.year-sort-container-main{
+    margin-top: 4rem;
+    background-color: white;
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 3rem;
+}
+
+.year-sort-header > h1{
+    font-size: 20px;
+}
+
+
+.year-sort-box{
+    display: flex;
+    justify-content: end;
+    gap: 1rem;
+}

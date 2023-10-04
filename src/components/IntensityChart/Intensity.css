@@ -1,0 +1,32 @@
+.intensity-container{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+}
+
+.svg-box{
+    width: 100%;
+
+}
+
+#area-fill{
+    fill: url(#MyGradient);
+}
+
+.bar-chart-svg{
+
+}
+
+.intensity-container > h1{
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+@media (max-width:800px){
+    .intensity-container{
+        width: 100%;
+    }
+    
+  }
